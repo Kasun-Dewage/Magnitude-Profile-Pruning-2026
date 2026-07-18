@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software or results, please cite the paper below."
+title: "Magnitude Profile Pruning: Calibration-Free Structured Attention Head Removal for Transformer Compression"
+authors:
+  - family-names: Dewage
+    given-names: Kasun
+    affiliation: University of Central Florida
+  - family-names: Pensky
+    given-names: Marianna
+    affiliation: University of Central Florida
+  - family-names: Rathnasekara
+    given-names: Heranga K.
+    affiliation: Old Dominion University
+  - family-names: De Silva
+    given-names: Suranadi
+    affiliation: University of Central Florida
+year: 2026
+repository-code: "https://github.com/Kasun-Dewage/Magnitude-Profile-Pruning-2026"
+license: MIT

@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Experiment outputs (regenerate with scripts; curated CSVs live in results/)
+output/
+*.ckpt
+*.bin
+*.safetensors
+
+# Hugging Face / datasets caches
+.cache/
+wandb/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
