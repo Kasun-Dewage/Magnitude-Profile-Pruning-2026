@@ -217,12 +217,20 @@ Batch reproduction scripts are provided in [`scripts/`](scripts/).
 If you find this work useful, please cite:
 
 ```bibtex
-@article{dewage2026magnitude,
-  title   = {Magnitude Profile Pruning: Calibration-Free Structured Attention Head
-             Removal for Transformer Compression},
-  author  = {Dewage, Kasun and Pensky, Marianna and Rathnasekara, Heranga K. and
-             De Silva, Suranadi},
-  year    = {2026}
+@inproceedings{dewage2026magnitude,
+  title     = {Magnitude Profile Pruning: Calibration-Free
+               Structured Attention Head Removal for
+               Transformer Compression},
+  author    = {Dewage, Kasun and Pensky, Marianna and
+               Rathnasekara, Heranga K. and De Silva, Suranadi},
+  booktitle = {Proceedings of the IEEE International Conference
+               on Machine Learning and Applications (ICMLA)},
+  year      = {2026},
+  note      = {Accepted for publication},
+  eprint    = {2609.26177},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CL},
+  url       = {https://arxiv.org/abs/2609.26177}
 }
 ```
 
